@@ -29,6 +29,12 @@
     Left Motor Red -- Motor Driver Step Motor 4
     Left Motor Black -- Motor Driver Step Motor 5
 
+    Commands
+
+    fb -2 0 2
+    lr -2 0 2
+    sn 0 1 2
+
 */
 
 input.onButtonPressed(Button.A, function () {
